@@ -1,24 +1,114 @@
-This is free and unencumbered software released into the public domain.
+ORCAVISION LTD. PROPRIETARY LICENSE
+Version 1.0
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 Orca Vision
+All rights reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+IMPORTANT: This software and associated materials are proprietary to Orca Vision.
+By downloading, installing, copying, accessing, or using the Software, you agree to the
+terms of this License. If you do not agree, do not use the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. DEFINITIONS
+1.1 "Company" means Orca Vision and its affiliates.
+1.2 "Software" means the source code, object code, binaries, scripts, libraries, APIs,
+    sample code, configuration files, and any accompanying documentation or materials
+    provided by the Company under this License.
+1.3 "You" or "Licensee" means the individual or legal entity exercising rights under this License.
+1.4 "Authorized Users" means the employees and contractors of Licensee who (a) have a need
+    to use the Software for Licensee’s internal business purposes, and (b) are bound by
+    written confidentiality obligations at least as protective as those in this License.
 
-For more information, please refer to <https://unlicense.org>
+2. LICENSE GRANT
+Subject to your ongoing compliance with this License, the Company grants you a limited,
+non-exclusive, non-transferable, non-sublicensable, revocable license to:
+2.1 Install and use the Software solely for your internal business purposes; and
+2.2 Permit Authorized Users to access and use the Software solely on your behalf for your
+    internal business purposes.
+
+3. RESTRICTIONS
+Except as expressly permitted in Section 2, you must not, and must not permit others to:
+3.1 Copy, reproduce, distribute, publish, sell, resell, lease, lend, sublicense, or otherwise
+    transfer the Software to any third party;
+3.2 Make the Software available to the public, including by posting it to public repositories,
+    package registries, or file-sharing services;
+3.3 Reverse engineer, decompile, disassemble, or otherwise attempt to derive source code or
+    underlying ideas, algorithms, structure, or organization of the Software, except to the
+    extent such restriction is prohibited by applicable law;
+3.4 Modify, translate, adapt, or create derivative works of the Software (except where the
+    Company has explicitly authorized modifications in writing);
+3.5 Remove, alter, or obscure any proprietary notices, labels, or marks included in the Software;
+3.6 Use the Software to build or improve a competing product or service, or for benchmarking
+    or competitive analysis intended for publication or disclosure to third parties without
+    the Company’s prior written consent;
+3.7 Use the Software in violation of law, regulation, or third-party rights.
+
+4. OWNERSHIP
+4.1 The Software is licensed, not sold. The Company and its licensors retain all right, title,
+    and interest in and to the Software, including all intellectual property rights.
+4.2 No rights are granted by implication, estoppel, or otherwise except as expressly stated.
+
+5. CONFIDENTIALITY
+5.1 The Software (including source code, design, and non-public documentation) constitutes
+    confidential and proprietary information of the Company ("Confidential Information").
+5.2 You will protect Confidential Information using at least the same degree of care you use
+    to protect your own confidential information of similar importance, and no less than
+    reasonable care.
+5.3 You will not disclose Confidential Information to any third party except to Authorized Users
+    who are bound by confidentiality obligations as described in Section 1.4.
+5.4 Upon termination or upon the Company’s request, you will promptly cease use and destroy
+    or return all copies of the Software and Confidential Information (except where retention
+    is required by law).
+
+6. FEEDBACK
+If you provide suggestions, ideas, or feedback regarding the Software ("Feedback"), you grant
+the Company a perpetual, irrevocable, worldwide, royalty-free right to use, reproduce, modify,
+distribute, and otherwise exploit the Feedback without restriction or compensation.
+
+7. SUPPORT AND UPDATES
+Unless the Company separately agrees in writing, the Company is not obligated to provide
+support, maintenance, updates, or upgrades. Any updates or upgrades provided by the Company
+are part of the Software and are governed by this License.
+
+8. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE." TO THE MAXIMUM EXTENT PERMITTED BY LAW,
+THE COMPANY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE,
+INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING
+OR USAGE OF TRADE. THE COMPANY DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE,
+OR UNINTERRUPTED.
+
+9. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+9.1 IN NO EVENT WILL THE COMPANY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+    OR EXEMPLARY DAMAGES (INCLUDING LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS INTERRUPTION),
+    EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+9.2 THE COMPANY’S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THIS LICENSE OR THE
+    SOFTWARE WILL NOT EXCEED THE GREATER OF (A) USD $100 OR (B) THE AMOUNTS YOU PAID (IF ANY)
+    TO THE COMPANY FOR THE SOFTWARE IN THE 12 MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING
+    RISE TO THE CLAIM.
+
+10. TERM AND TERMINATION
+10.1 This License is effective until terminated.
+10.2 The Company may terminate this License immediately upon notice if you breach any term.
+10.3 Upon termination, you must immediately cease all use of the Software and destroy or return
+     all copies in your possession or control.
+10.4 Sections intended to survive termination survive, including without limitation Sections
+     4, 5, 6, 8, 9, 10, and 11.
+
+11. GENERAL
+11.1 Governing Law. This License is governed by the laws of [JURISDICTION], excluding its
+     conflict-of-laws rules.
+11.2 Injunctive Relief. You agree that unauthorized use or disclosure of the Software may
+     cause irreparable harm, and the Company may seek injunctive relief in addition to any
+     other remedies available at law or in equity.
+11.3 Severability. If any provision is held unenforceable, the remaining provisions remain
+     in full force and effect.
+11.4 Entire Agreement. This License constitutes the entire agreement regarding the Software
+     and supersedes any prior or contemporaneous understandings on the subject.
+11.5 Assignment. You may not assign or transfer this License without the Company’s prior
+     written consent. Any attempted assignment is void.
+
+12. CONTACT
+Orca Vision LTD.
+Attn: Licensing
+Email: info@orcavision.company
