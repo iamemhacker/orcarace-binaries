@@ -1,0 +1,10 @@
+{
+  "num_lanes": 10,
+  "pool_length": 50,
+  "clock_ip": "localhost",
+  "clock_port": 26700,
+  "event_id": "test1",
+  "lane_lo": 0,
+  "lane_hi": 9,
+  "iface": "lo0"
+}

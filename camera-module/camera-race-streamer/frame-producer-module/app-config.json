@@ -1,0 +1,7 @@
+{
+    "event_id": "test1",
+    "fps": 25.0,
+    "camera_ip": "orcarace-left",
+    "gw_ip": "localhost",
+    "iface": "lo0"
+}
