@@ -7,6 +7,7 @@
 1. `brew install glib gobject-introspection`
 1. `brew install gstreamer gst-plugins-base`
 1. `brew install supervisord`
+1. `brew install zeromq`
 1. From the project root direcotory: `mkdir logs`
 
 
